@@ -26,6 +26,21 @@ TroubleShooting:
 No print? → Check sensor names match exactly (ps0-ps7, gs0)
 Crash? → Missing sensors/motors in world file
 
+ Why e-puck?
+
+Desk-sized (7cm diameter) - Fits any Webots arena, experiments on your table​
+
+Exact sensors needed: 8x IR proximity (obstacles), ground sensor (food/water), camera (colors/beacon), GPS - no extras to confuse​
+
+Educational standard - Used in 1000+ robotics courses worldwide, hiring managers recognize it instantly​
+
+Low-cost simulation-to-real - Code transfers to $200 physical e-puck if you want hardware later
+
+Proven for subsumption - Brooks-style behaviors tested extensively on e-puck (obstacle avoidance, color following, exploration)
+
+<img width="1151" height="833" alt="image" src="https://github.com/user-attachments/assets/f8ecc01d-f855-4431-a5c5-035f0ea74af2" />
+
+
 
 # Key Features
 
